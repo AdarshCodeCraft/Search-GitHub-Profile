@@ -5,3 +5,4 @@
 <p>🖼️ Display User Information: View the user's avatar, bio, follower count, and more.</p>
 <p>📂 List Repositories: Display all public repositories with basic information like name and description</p>
 <p>🎨 Responsive Design: Works smoothly on desktops and mobile devices.</p>
+<h3>📸 Screenshots</h3>

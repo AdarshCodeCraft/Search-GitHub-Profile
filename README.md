@@ -6,3 +6,4 @@
 <p>📂 List Repositories: Display all public repositories with basic information like name and description</p>
 <p>🎨 Responsive Design: Works smoothly on desktops and mobile devices.</p>
 <h3>📸 Screenshots</h3>
+<img src="Screenshot 2024-11-16 195452.png" alt="img" />
